@@ -94,7 +94,6 @@ import os
 import shutil
 import pandas as pd
 import streamlit as st
-from tqdm import tqdm
 
 st.title("📂 File Segregation Tool")
 
